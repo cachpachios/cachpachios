@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**cachpachios/cachpachios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trying to stay a technical renaissance man, I like building systems on all kinds of levels. From optimizing cache-line hits on an assembly level to nice REST APIs and ensuring consitency in event driven microservices.
 
-Here are some ideas to get you started:
+Been dabbeling with various projects since i was like 10 y.o, although intensity has gone up and down with life.
+And the majority has been outside git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- Proficient in: Python, Rust, C++, C#, JS/TS.
+  
+  _And once upon a time my go to was Java. But not touched it since 1.8... Heard things have improved..._
+  
+- Fav is Rust. _cringe?_
+
+---
+
+Currently working on container virtualization platform in my sparetime.
+Always loved everything networking and distributed.
+
+---
+
+Feel free to contact me on LinkedIn or by email! 🚀🌟
