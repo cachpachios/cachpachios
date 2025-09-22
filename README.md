@@ -11,7 +11,7 @@
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-c15f3c?style=for-the-badge&logo=claude&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ---
-Trying to stay a technical renaissance man, I like building systems on all kinds of levels. From optimizing cache-line hits on an assembly level to nice REST APIs and ensuring consitency in event driven microservices.
+Trying to stay a technical renaissance man, I like building systems on all kinds of levels. From optimizing cache-line hits on an assembly level[^1] to nice REST APIs and ensuring consitency in event driven microservices.
 
 - 🔭 Currently working on container virtualization platform in my sparetime.
 - 🔌 Always loves everything networking and distrubuted!
@@ -19,3 +19,5 @@ Trying to stay a technical renaissance man, I like building systems on all kinds
 ---
 
 Feel free to contact me on LinkedIn or by email! 🚀🌟
+
+[^1]: Disclaimer: I don't really know assembly. Except when godbolting C++. But it sounded more cool to say it like that :)
