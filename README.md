@@ -13,11 +13,11 @@
 ---
 Trying to stay a technical renaissance man, I like building systems on all kinds of levels. From optimizing cache-line hits on an assembly level[^1] to nice REST APIs and ensuring consitency in event driven microservices.
 
-- 🔭 Currently working on container virtualization platform in my sparetime.
+- 🔭 Currently working on container virtualization platform in my sparetime. [Unisrv.io](https://unisrv.io/)
 - 🔌 Always loves everything networking and distrubuted!
 
 ---
 
-Feel free to contact me on LinkedIn or by email! 🚀🌟
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/caspar-noree-palm/) or by email! 🚀🌟
 
 [^1]: Disclaimer: I don't really know assembly. Except when godbolting C++. But it sounded more cool to say it like that :)
